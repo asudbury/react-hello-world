@@ -13,7 +13,7 @@ function App() {
 
         <p>
             <small>
-              <a href='https://github.com/asudbury/react-hello-world'>Source Code</a>
+              <a href='https://github.com/asudbury/react-hello-world' target="_blank" rel="noopener noreferrer">Source Code</a>
             </small>
         </p>
         <p>
