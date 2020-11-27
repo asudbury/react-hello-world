@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 
-.container{
+.container {
   background-image: url(./assets/img/world.png);
   background-repeat: no-repeat;
   background-size: cover;
